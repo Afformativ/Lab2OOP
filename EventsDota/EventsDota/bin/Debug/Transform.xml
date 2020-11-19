@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<EventsDataBase>
+<Event
+VALUE = "Minor"
+NAME = " DreamLeague Season 10"
+START = "29 October 2018"
+END = " 4 November 2018"
+COUNTRY = "Sweden"
+CITY = " Stockholm"
+PRIZEPOOL = "300000"
+DPC = "500"
+WINNER = "Tigers"
+RUNNERUP = "Natus Vincere"
+NUMBEROFTEAMS = "8">
+</Event>
+<Event
+VALUE = "Minor"
+NAME = "The Bucharest Minor"
+START = "9 January 2018"
+END = "13 January 2018"
+COUNTRY = "Romania"
+CITY = "Bucharest"
+PRIZEPOOL = "300000"
+DPC = "500"
+WINNER = "EHOME"
+RUNNERUP = "Gambit"
+NUMBEROFTEAMS = "8">
+</Event>
+<Event
+VALUE = "Minor"
+NAME = "StarLadder ImbaTV Dota 2 Minor Season 1"
+START = "7 March 2019"
+END = "10 March 2019"
+COUNTRY = "Ukraine"
+CITY = "Kyiv"
+PRIZEPOOL = "300000"
+DPC = "500"
+WINNER = "Vici Gaming"
+RUNNERUP = "Gambit"
+NUMBEROFTEAMS = "8">
+</Event>
+<Event
+VALUE = "Minor"
+NAME = "OGA Dota PIT Minor 2019"
+START = "22 April 2019"
+END = "28 April 2019"
+COUNTRY = "Croatia"
+CITY = "Split"
+PRIZEPOOL = "300000"
+DPC = "500"
+WINNER = "Ninjas in Pyjamas"
+RUNNERUP = "EHOME"
+NUMBEROFTEAMS = "8">
+</Event>
+<Event
+VALUE = "Minor"
+NAME = "StarLadder ImbaTV Dota 2 Minor Season 2"
+START = "12 June 2019"
+END = "16 June 2019"
+COUNTRY = "Ukraine"
+CITY = "Kyiv"
+PRIZEPOOL = "300000"
+DPC = "500"
+WINNER = "Ninjas in Pyjamas"
+RUNNERUP = "Alliance"
+NUMBEROFTEAMS = "8">
+</Event>
+</EventsDataBase>

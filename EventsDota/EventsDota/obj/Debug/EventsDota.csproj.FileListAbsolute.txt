@@ -1,0 +1,10 @@
+D:\Proga\EventsDota\EventsDota\bin\Debug\EventsDota.exe.config
+D:\Proga\EventsDota\EventsDota\bin\Debug\EventsDota.exe
+D:\Proga\EventsDota\EventsDota\bin\Debug\EventsDota.pdb
+D:\Proga\EventsDota\EventsDota\obj\Debug\EventsDota.Form1.resources
+D:\Proga\EventsDota\EventsDota\obj\Debug\EventsDota.Properties.Resources.resources
+D:\Proga\EventsDota\EventsDota\obj\Debug\EventsDota.csproj.GenerateResource.cache
+D:\Proga\EventsDota\EventsDota\obj\Debug\EventsDota.csproj.CoreCompileInputs.cache
+D:\Proga\EventsDota\EventsDota\obj\Debug\EventsDota.exe
+D:\Proga\EventsDota\EventsDota\obj\Debug\EventsDota.pdb
+D:\Proga\EventsDota\EventsDota\obj\Debug\EventsDota.csprojAssemblyReference.cache
